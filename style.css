@@ -1,0 +1,72 @@
+
+body{
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+text{color: #fff;
+}
+
+.companylogo{
+    display: block;
+    float: left;
+}
+.companyname{
+    display: block;
+    float: inherit;
+    align-content: center;
+    height: 100px;
+}
+.menubar{
+    width: 100%;
+    background-color: rgb(0, 0, 50);
+    display: inline-flex;
+    justify-content: space-between;
+    padding: 12px;
+    border-radius: 9px;
+    align-items: center;
+    
+
+}
+.menu a{
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: capitalize;
+    color: #fff;
+    float: left;
+    text-wrap: inherit;
+}
+
+
+.bar a{
+    color: #fff;
+    text-decoration: none;
+    float: right;
+}
+
+.companyname{
+    color: blueviolet;
+    font-size: 30px;
+}
+
+.companynametext a{
+    font-size: 30px;
+}
+.slide img{
+    width: 100%;
+}
+
+.mission {
+    float: left;
+    display: block;
+}
+
+.vision{
+    float: right;
+    display: block;
+}
+p text{
+    font-size: 14px;
+}
+
